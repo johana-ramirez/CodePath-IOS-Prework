@@ -14,6 +14,7 @@
 		040FFD2C28B265EA0081496A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040FFD2A28B265EA0081496A /* LaunchScreen.storyboard */; };
 		040FFD3728B265EA0081496A /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FFD3628B265EA0081496A /* PreworkTests.swift */; };
 		040FFD4228B265EA0081496A /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FFD4128B265EA0081496A /* PreworkUITests.swift */; };
+		04DC558F28B434E9003B79A3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 04DC558E28B434E9003B79A3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		040FFD3D28B265EA0081496A /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		040FFD4128B265EA0081496A /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		040FFD4328B265EA0081496A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04DC558E28B434E9003B79A3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		040FFD1528B265E80081496A = {
 			isa = PBXGroup;
 			children = (
+				04DC558E28B434E9003B79A3 /* README.md */,
 				040FFD2028B265E80081496A /* Prework */,
 				040FFD3528B265EA0081496A /* PreworkTests */,
 				040FFD4028B265EA0081496A /* PreworkUITests */,
@@ -231,6 +234,7 @@
 			files = (
 				040FFD2C28B265EA0081496A /* LaunchScreen.storyboard in Resources */,
 				040FFD2928B265EA0081496A /* Assets.xcassets in Resources */,
+				04DC558F28B434E9003B79A3 /* README.md in Resources */,
 				040FFD2728B265E80081496A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
